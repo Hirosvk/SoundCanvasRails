@@ -2,6 +2,10 @@
 [Live Link][live_link]
 [live_link]: http://soundcanvas.heroku.com
 
+* Last updated 7/27/2016
+This version has been stopped been updated. I originally created this version with Rails backend thinking that I might someday implement a feature to save and share recordings. However I ended up creating a lightweight pure JS version. 
+
+
 ![screeshot1][scrrenshot1]
 [scrrenshot1]:./screenshots/sound_canvas.jpg
 
